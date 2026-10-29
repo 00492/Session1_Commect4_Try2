@@ -100,4 +100,6 @@ void main()
 	game();
 	//This is a comment
 
+	//This is my 2nd addition to this script
+
 }
