@@ -98,6 +98,6 @@ void main()
 {
 
 	game();
-	//This is a comment
+	//This is another comment
 
 }
