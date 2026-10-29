@@ -98,5 +98,6 @@ void main()
 {
 
 	game();
+	//This is a comment
 
 }
